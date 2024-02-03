@@ -1,3 +1,6 @@
+import React from "react";
+import ReactDOM from "react-dom/client"
+
 /*
 *How the nested element is created in react.
 *****suppose we are using this nested scenario
