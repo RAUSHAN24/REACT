@@ -18,4 +18,19 @@
  - HTTPs
  - Tree shaking - remove unused code
  - Different dev and prod bundles
- 
+
+ // Importance of adding script in package.json
+ -when we run npm start then behind the scene execute the parcel package which act as npm parcel index.html
+
+ //Importance of babel
+ - it is used to convert piece of code into React element.
+ - it also help in make compatible code for older versions
+ -Javascript compiler
+
+ // for giving attributes in JSX we need to use camel case
+ // if we are writing multiple lines in JSX then we need to wrap in this bracket ( )
+ /////////////////REACT COMPONENT/////////////////
+ -Class Based componet -OLD
+ -Functional baseed component - New
+
+ ***React functional component >> a javascript function which returns the JSX code or react element is called functional component.
