@@ -34,3 +34,9 @@
  -Functional baseed component - New
 
  ***React functional component >> a javascript function which returns the JSX code or react element is called functional component.
+ //////////////////////////////////////////////
+ Passing a props is just like passing a arguments to the function.
+ >>Prop is object
+
+
+ .............//////*  // not using keys(not acceptable) <<< index as key <<<<<<< unique id(best practice) */
